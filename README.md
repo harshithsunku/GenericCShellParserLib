@@ -23,6 +23,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/harshithsunku/GenericCShellParserLIB.git
 ```
+Install Readline library:
+```bash
+sudo apt-get install libreadline-dev
+```
 
 Compile the library:
 
