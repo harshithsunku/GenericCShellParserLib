@@ -31,7 +31,11 @@ sudo apt-get install libreadline-dev
 Compile the library:
 
 ```bash
+//To Build
 make
+
+//To clean
+make clean
 ```
 ### Usage
 
